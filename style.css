@@ -31,11 +31,18 @@ body {
   width: 10%;
   background-color: turquoise;
 }
+.purchase-btn {
+  color: white;
+  border-radius: 8px;
+  padding: 9px 25px;
+  border: none;
+  background-color: #e76f51;
+}
 /* card */
 .card-img {
   width: 210px;
   clip-path: circle();
 }
-.colored-star {
+.orange-text {
   color: orange;
 }
