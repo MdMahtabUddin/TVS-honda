@@ -18,3 +18,24 @@ body {
 .header-details {
   padding: 50px 30px;
 }
+/* feature bike section style  */
+.honda-feature-gray {
+  filter: grayscale(100%);
+}
+.line {
+  display: block;
+  margin: auto;
+  align-items: center;
+
+  height: 2px;
+  width: 10%;
+  background-color: turquoise;
+}
+/* card */
+.card-img {
+  width: 210px;
+  clip-path: circle();
+}
+.colored-star {
+  color: orange;
+}
